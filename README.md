@@ -60,3 +60,11 @@ Consider how many days elapse on Earth in the time that Mars circles the Sun onc
 Visually estimate the result by plotting the daily minimum temperature.
 
 Export the DataFrame to a CSV file.
+
+Data Analysis:
+
+On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
+
+Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+
+The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
