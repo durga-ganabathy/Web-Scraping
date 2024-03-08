@@ -63,8 +63,14 @@ Export the DataFrame to a CSV file.
 
 Data Analysis:
 
-On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
+Which month, on average, has the lowest temperature? The highest?
 
-Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+As per the analysis, the third month in Mars has the lowest temperature of -83.307292 (degree in C) and the eight month in Mars has the highest temperature of -68.382979 (degree in C). So, the warmest month in Mars is the eighth month and the coldest month in Mars is the third month.
 
-The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
+Which month, on average, has the lowest atmospheric pressure? The highest?
+
+In Mars, the sixth month has the lowest atmospheric pressure of value equal to 745.054422. The ninth month has the highest atmospheric pressure of value equal to 913.305970
+
+How many terrestrial days exist in a Martian year? 
+
+According to the internet, a Mars year equals to 687 Earth days. for the distance from peak to peak. From the chart it can be seen that one peak to other peak lies within two years. So, from the analysis it can be concluded that mars year has roughly 670 earth days.
